@@ -53,7 +53,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/f9200000.ssusb/f9200000.dwc3/gad
 
 #TWRP specific build flags
 TW_THEME := portrait_hdpi
-TWHAVE_SELINUX := true
+TW_HAVE_SELINUX := true
 TARGET_RECOVERY_INITRC := device/samsung/kccat6/recovery/init.rc
 TARGET_RECOVERY_FSTAB := device/samsung/kccat6/recovery/etc/recovery.fstab
 
