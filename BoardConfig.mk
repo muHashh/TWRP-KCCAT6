@@ -71,8 +71,6 @@ TW_MAX_BRIGHTNESS := 255
 TW_NO_REBOOT_BOOTLOADER := true
 TW_HAS_DOWNLOAD_MODE := true
 TW_INCLUDE_CRYPTO := true
-TW_NO_EXFAT_FUSE := false
-TW_NO_EXFAT := false
 GET_RECOVERY_QCOM_RTC_FIX := true
 TW_MTP_DEVICE := /dev/usb_mtp_gadget
 # LZMA ramdisk
