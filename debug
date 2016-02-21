@@ -1,0 +1,27 @@
+hassan@hassan-VirtualBox:~/Downloads/Python-2.7.11$ sudo apt-get install libx11-dev:i386
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following extra packages will be installed:
+  gcc-4.9-base gcc-4.9-base:i386 libc-dev-bin libc6 libc6:i386 libc6-dbg
+  libc6-dev libgcc1 libgcc1:i386 libpthread-stubs0-dev:i386 libx11-6:i386
+  libx11-doc libxau-dev:i386 libxau6:i386 libxcb1:i386 libxcb1-dev:i386
+  libxdmcp-dev:i386 libxdmcp6:i386 x11proto-core-dev x11proto-input-dev
+  x11proto-kb-dev xorg-sgml-doctools xtrans-dev
+Suggested packages:
+  glibc-doc glibc-doc:i386 locales:i386 libxcb-doc:i386
+Recommended packages:
+  libx11-doc:i386
+The following NEW packages will be installed
+  gcc-4.9-base:i386 libc6:i386 libgcc1:i386 libpthread-stubs0-dev:i386
+  libx11-6:i386 libx11-dev:i386 libx11-doc libxau-dev:i386 libxau6:i386
+  libxcb1:i386 libxcb1-dev:i386 libxdmcp-dev:i386 libxdmcp6:i386
+  x11proto-core-dev x11proto-input-dev x11proto-kb-dev xorg-sgml-doctools
+  xtrans-dev
+The following packages will be upgraded:
+  gcc-4.9-base libc-dev-bin libc6 libc6-dbg libc6-dev libgcc1
+6 to upgrade, 18 to newly install, 0 to remove and 293 not to upgrade.
+Need to get 18.3 MB of archives.
+After this operation, 28.2 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Abort.
