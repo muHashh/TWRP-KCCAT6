@@ -1,3 +1,3 @@
 # TWRP-KCCAT6
 
-cedits to Tkkg1994
+credits to Tkkg1994
